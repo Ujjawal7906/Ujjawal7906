@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Frontend+Developer;B.Tech+CSE+Student;Building+Responsive+Web+Applications;Learning+DSA+%26+Modern+Web+Development;Open+to+Internships+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Frontend+Developer;B.Tech+CSE+Student;Building+Responsive+Web+Applications;Learning+DSA+%26+Modern+Web+Development;%F0%9F%9A%80" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 - 🌱 Currently learning **JavaScript, DSA & React**
 - 🤖 Exploring AI-assisted development
 - 🚀 Building real-world web projects
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **ujjawalthakur896@gmail.com**
 
 ---
 
@@ -72,22 +72,24 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ujjawal7906&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjawal7906&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjawal7906&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
-## 🏆 GitHub Trophies
+## 💻 Coding Profiles
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ujjawal7906&theme=algolia&row=1&column=7"/>
+<p align="left">
+
+<a href="https://leetcode.com/u/ujjawal_7906/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/ujjawal2006?from=explore&tab=activity">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -100,47 +102,7 @@
 
 ---
 
-## 💻 Coding Profiles
-
-<p align="left">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 ## 🚀 Featured Projects
-
-### 🌍 Bihar Explorer
-A tourism website showcasing Bihar's heritage, temples, festivals, and famous destinations.
-
-**Tech Stack**
-- HTML5
-- Bootstrap 5
-- JavaScript
-- APIs
-
----
-
-### 🎓 CampusHub
-
-A student productivity portal with attendance tracker, assignment manager, CGPA calculator, and contact page.
-
-**Tech Stack**
-
-- HTML
-- Bootstrap
-- JavaScript
-- Local Storage
-
----
 
 ### 💼 Personal Portfolio
 
