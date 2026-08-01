@@ -1,21 +1,179 @@
-# 💫 About Me:
-I'm a passionate Frontend Developer and Computer Science student who enjoys transforming ideas into responsive and engaging web experiences. I work with HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS to build modern websites while using Git and GitHub for version control. I continuously improve my skills through hands-on projects, coding challenges, and learning emerging technologies, including AI-powered development tools. My goal is to become a skilled software engineer by building real-world applications, contributing to open-source projects, and delivering intuitive user experiences.<br>
+<h1 align="center">Hi 👋, I'm Ujjawal Thakur</h1>
 
+<h3 align="center">
+🚀 Frontend Developer | B.Tech CSE Student | AI Enthusiast
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ujjawal_7906) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ujjawal7906) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ujjawalthakur896@gmail.com ) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ujjawal7906&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ujjawal7906&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ujjawal7906&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Frontend+Developer;B.Tech+CSE+Student;Building+Responsive+Web+Applications;Learning+DSA+%26+Modern+Web+Development;Open+to+Internships+%F0%9F%9A%80" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ujjawal7906&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🙋‍♂️ About Me
+
+- 🎓 B.Tech Computer Science Student
+- 💻 Passionate Frontend Developer
+- 🌱 Currently learning **JavaScript, DSA & React**
+- 🤖 Exploring AI-assisted development
+- 🚀 Building real-world web projects
+- 📫 Reach me at **your-email@example.com**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ujjawal7906">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ujjawal7906">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://ujjawal7906.github.io/Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ujjawal7906&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjawal7906&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjawal7906&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ujjawal7906&theme=algolia&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjawal7906&theme=tokyo-night"/>
+</p>
+
+---
+
+## 💻 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 Bihar Explorer
+A tourism website showcasing Bihar's heritage, temples, festivals, and famous destinations.
+
+**Tech Stack**
+- HTML5
+- Bootstrap 5
+- JavaScript
+- APIs
+
+---
+
+### 🎓 CampusHub
+
+A student productivity portal with attendance tracker, assignment manager, CGPA calculator, and contact page.
+
+**Tech Stack**
+
+- HTML
+- Bootstrap
+- JavaScript
+- Local Storage
+
+---
+
+### 💼 Personal Portfolio
+
+Responsive portfolio website to showcase my projects, certifications, and skills.
+
+🔗 https://ujjawal7906.github.io/Portfolio
+
+---
+
+## 📊 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Ujjawal7906&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy turning ideas into responsive and interactive websites while continuously improving through coding challenges and real-world projects.
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ujjawal7906/Ujjawal7906/output/github-contribution-grid-snake.svg"/>
+</p>
